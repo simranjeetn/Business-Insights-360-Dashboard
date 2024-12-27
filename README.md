@@ -1,4 +1,4 @@
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+![Overall Report.gif](https://github.com/simranjeetn/Business-Insights-360-Dashboard/blob/main/bi%20360%20_Thumbnail_updated.png)
 
 ## Title: Business Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain
 
