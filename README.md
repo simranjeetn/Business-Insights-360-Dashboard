@@ -1,13 +1,15 @@
-Title: Business Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain
+![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+
+## Title: Business Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain
 
 ************************
-Project Short Info: 
+## Project Short Info: 
 
 AtliQ Hardwares is a consumer electronics company expanding rapidly but is not able to compete with other companies using data as most of their report still exists in Excel. My goal is to implement an advanced analytics solution using Power BI that will enable the company to get insights and make informed decisions.
 
 **************************
 
-Project Description: 
+## Project Description: 
 
 In this project, the goal is to be one report which could be used by stakeholders from sales, marketing, finance and executive team. The focus is made on the following
 
@@ -29,10 +31,11 @@ I learned the following things in this project
 
 **************************
 
-Screenshot Description_1:
+## Screenshot Description_1:
 User-empathetic landing page as a part of dashboard design
+![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
 
 
 
-Screenshot Description2:
+## Screenshot Description2:
 Data modelling involving 10+ tables
