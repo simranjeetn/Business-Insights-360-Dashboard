@@ -32,10 +32,14 @@ I learned the following things in this project
 **************************
 
 ## Screenshot Description_1:
-User-empathetic landing page as a part of dashboard design
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
 
+User-empathetic landing page as a part of dashboard design
+
+![Overall Report.gif](https://github.com/simranjeetn/Business-Insights-360-Dashboard/blob/main/Project_Screenshot1_updated.jpg)
 
 
 ## Screenshot Description2:
+
 Data modelling involving 10+ tables
+
+![Overall Report.gif](https://github.com/simranjeetn/Business-Insights-360-Dashboard/blob/main/Project_Screenshot2_updated.png)
